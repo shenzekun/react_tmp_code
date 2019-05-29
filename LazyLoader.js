@@ -1,4 +1,4 @@
-// 懒加载和 React.lazy 类似
+// 懒加载和 React.lazy 类似, HOC
 import React, { Component } from 'react';
 
 const lazyLoader = (importComponent) => {
